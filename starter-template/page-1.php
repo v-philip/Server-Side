@@ -17,6 +17,7 @@ $statement->closeCursor();
                 <th>Director</th>
                 <th>Age Rating</th>
                 <th>Delete</th>
+                <th>Edit</th>
             </tr>
 
             <?php foreach ($movies as $movie) : ?>
